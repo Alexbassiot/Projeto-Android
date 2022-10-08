@@ -50,11 +50,13 @@
   nav a:hover {
     background-color: #c5ebd6;
     color: #3ddc84;
+    
   }
 
   header > p {
-    color: white
-  
+    color: white;
+    padding-bottom: 30px;
+    
   }
 
 body {
